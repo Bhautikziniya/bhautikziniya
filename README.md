@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhautikziniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhautikziniya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhautikziniya" alt="bhautikziniya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bhautik_ziniya" target="blank"><img src="https://img.shields.io/twitter/follow/bhautik_ziniya?logo=twitter&style=for-the-badge" alt="bhautik_ziniya" /></a> </p>
 
 - 🌱 I’m currently learning **Swift UI, Xamarin, Flutter**
