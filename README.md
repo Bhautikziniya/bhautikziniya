@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1633871309604/J08qZ6MNr.png)](https://bhautikziniya.github.io)
+[![MasterHead](https://www.empover.com/sites/default/files/inline-images/ios-banner.jpg)](https://bhautikziniya.github.io)
 <h1 align="center">Hi 👋, I'm Bhautik Ziniya</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
