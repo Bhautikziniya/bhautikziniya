@@ -52,4 +52,5 @@
   <img src="https://streak-stats.demolab.com?user=bhautikziniya&theme=tokyonight&hide_border=true" width="80%"/>
 </div>
 
-[![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&theme=github-compact&hide_border=true)
+<!--[![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
