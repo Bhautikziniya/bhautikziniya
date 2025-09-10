@@ -37,7 +37,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,objectivec,swiftui,xcode,flutter,dart,java,kotlin,cs,cpp,c,html,css,js,nodejs,mysql,firebase,sqlite,git,figma,xd,ps,postman" />
+  <img src="https://skillicons.dev/icons?i=apple,swift,flutter,html,css,js,firebase,git,github,gitlab,figma,xd,ps,postman,py,raspberrypi,tensorflow,vscode" />
 </p>
 
 <div align="center">
