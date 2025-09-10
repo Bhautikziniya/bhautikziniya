@@ -5,17 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhautikziniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhautikziniya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhautik_ziniya" target="blank"><img src="https://img.shields.io/twitter/follow/bhautik_ziniya?logo=twitter&style=for-the-badge" alt="bhautik_ziniya" /></a> </p>
-
 <p align="left">
   <a href="https://twitter.com/bhautik_ziniya" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" />
   </a>
+  <a href="https://www.linkedin.com/in/bhautikziniya/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+  </a>
 </p>
-
-<a href="https://www.linkedin.com/in/bhautikziniya/" target="_blank">
-  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
-</a>
 
 - 🌱 Currently exploring **Flutter, React Native**
 
