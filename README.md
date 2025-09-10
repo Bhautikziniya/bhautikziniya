@@ -41,13 +41,8 @@
 </p>
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhautikziniya&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhautikziniya&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=bhautikziniya&show_icons=true&count_private=true&hide_border=true&hide_rank=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhautikziniya&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="49%"/>
 </div>
 
 [![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
