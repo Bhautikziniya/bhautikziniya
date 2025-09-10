@@ -1,7 +1,10 @@
 <!--[![MasterHead](https://www.empover.com/sites/default/files/inline-images/ios-banner.jpg)](https://bhautikziniya.github.io)-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Bhautik%20Ziniya%20|%20Senior%20iOS%20Engineer&fontSize=28&fontColor=00bfbf&animation=fadeIn&fontAlignY=50" alt="Bhautik Ziniya Banner"/>
+</p>
 <h1 align="center">Hi 👋, I'm Bhautik Ziniya</h1>
 <h3 align="center">Senior iOS Engineer | 10+ Years Experience | Swift | SwiftUI | Objective-C</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhautikziniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhautikziniya" /> </p>
 
