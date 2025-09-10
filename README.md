@@ -40,9 +40,15 @@
   <img src="https://skillicons.dev/icons?i=apple,swift,flutter,html,css,js,firebase,git,github,gitlab,figma,xd,ps,postman,py,raspberrypi,tensorflow,vscode" />
 </p>
 
+## 📊 GitHub Analytics  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhautikziniya&show_icons=true&count_private=true&hide_border=true&hide_rank=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhautikziniya&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhautikziniya&show_icons=true&count_private=true&hide_border=true&hide_rank=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhautikziniya&layout=compact&hide_border=true&theme=tokyonight" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bhautikziniya&theme=tokyonight&hide_border=true" width="80%"/>
 </div>
 
 [![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
