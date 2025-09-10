@@ -45,6 +45,4 @@
 <img width = "41%" height = "195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhautikziniya&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="bhautikziniya"/>
 </div>
 
-![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&theme=github-compact&hide_border=true)
-
 [![Bhautik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhautikziniya&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
