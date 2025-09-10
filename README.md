@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bhautik_ziniya" target="blank"><img src="https://img.shields.io/twitter/follow/bhautik_ziniya?logo=twitter&style=for-the-badge" alt="bhautik_ziniya" /></a> </p>
 
-<p align="left"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bhautikziniya" target="_blank">Follow on LinkedIn</a> </p>
+<a href="https://www.linkedin.com/in/bhautikziniya/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+</a>
 
 - 🌱 Currently exploring **Flutter, React Native**
 
