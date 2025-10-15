@@ -38,7 +38,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,swift,flutter,html,css,js,firebase,git,github,gitlab,figma,xd,ps,postman,py,raspberrypi,tensorflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=apple,swift,html,css,js,firebase,git,github,gitlab,figma,xd,ps,postman,py,raspberrypi,tensorflow,vscode" />
 </p>
 
 ## 📊 GitHub Analytics  
